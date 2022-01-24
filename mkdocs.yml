@@ -1,7 +1,0 @@
-site_name: 'tech-docs-edited-v0.0.1'
-
-nav:
-  - Home: index.md
-  
-plugins:
-  - techdocs-core
