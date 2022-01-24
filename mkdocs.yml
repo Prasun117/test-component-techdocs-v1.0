@@ -2,7 +2,6 @@ site_name: 'tech-docs-edited-v0.0.1'
 
 nav:
   - Home: index.md
-  - NewPage: newPage.md
   
 plugins:
   - techdocs-core
